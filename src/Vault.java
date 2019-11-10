@@ -18,4 +18,23 @@ public class Vault {
 
     }
 
+    public ArrayList<Painting> getPaintingArrayList() {
+        return paintingArrayList;
+    }
+
+    public ArrayList<Architecture> getArchitectureArrayList() {
+        return architectureArrayList;
+    }
+
+    public ArrayList<Sculpture> getSculptureArrayList() {
+        return sculptureArrayList;
+    }
+
+    public ArrayList<Architect> getArchitectArrayList() {
+        return architectArrayList;
+    }
+
+    public ArrayList<Artist> getArtistArrayList() {
+        return artistArrayList;
+    }
 }
